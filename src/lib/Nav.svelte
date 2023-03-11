@@ -5,11 +5,9 @@
  </ul>
 </nav>
 
-<style lang="sass">
+<style lang="postcss">
  nav ul {
    list-style: none;
-   padding: 3px 5px;
-   background: #111;
-
+	 
  }
 </style>
